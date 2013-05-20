@@ -1,0 +1,21 @@
+
+<list>
+	<archive filename="Data\ASSET.vdk" checksum="EBDFB588" original="6869AA80" size="4398198"/>
+	<archive filename="Data\UI.vdk" checksum="41AEA58A" original="1B2A36E7" size="204241104"/>
+	<archive filename="MD5FileList.txt" checksum="885B1240" original="00000000" size="0"/>
+	<archive filename="UI\FONT\2002L.ttf" checksum="24AE8A26" original="8496E728" size="1989644"/>
+	<archive filename="UI\FONT\arial.ttf" checksum="996500DB" original="34BAD949" size="367112"/>
+	<archive filename="UI\FONT\AritaSans-Bold.otf" checksum="94DFFDF3" original="5039FF08" size="30540"/>
+	<archive filename="UI\FONT\BITSUMIS.TTF" checksum="94DFFDF3" original="5039FF08" size="30540"/>
+	<archive filename="UI\FONT\cambria.ttc" checksum="0BB19EDF" original="3A55021A" size="1622732"/>
+	<archive filename="UI\FONT\cambriab.ttf" checksum="4FE4F35C" original="8D5C974C" size="792488"/>
+	<archive filename="UI\FONT\cambriai.ttf" checksum="E41B3042" original="9F19EF13" size="827080"/>
+	<archive filename="UI\FONT\cambriaz.ttf" checksum="8C537FE4" original="12F94A4D" size="805864"/>
+	<archive filename="UI\FONT\FontInfo.xml" checksum="9AF37D3E" original="1DBA5295" size="12263"/>
+	<archive filename="UI\FONT\Philosopher-Bold.ttf" checksum="2BF24843" original="33FDD537" size="648008"/>
+	<archive filename="UI\FONT\Street Corner Upper Extend.ttf" checksum="94DFFDF3" original="5039FF08" size="30540"/>
+	<archive filename="UI\FONT\verdana.ttf" checksum="30001AC9" original="8D4EDD98" size="191344"/>
+	<archive filename="UI\FONT\verdanab.ttf" checksum="A4DFD4A7" original="1381162B" size="155384"/>
+	<archive filename="UI\FONT\verdanai.ttf" checksum="0498524E" original="E3BCAACE" size="176992"/>
+	<archive filename="UI\FONT\verdanaz.ttf" checksum="1C1DAB6C" original="0FDA5119" size="175444"/>
+</list>
